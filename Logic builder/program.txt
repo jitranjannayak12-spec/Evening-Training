@@ -1,0 +1,14 @@
+public class program
+{
+public static void main(string arg[])
+{
+string s="56"
+int x=integer.perse int(s);
+float y=float.perse int(s);
+double d=double.perse int(s),
+byte b=byte.perse int(s);
+system.out.println(x);
+system.out.println(y);
+system.out.println(d);
+system.out.println(b);
+}}
